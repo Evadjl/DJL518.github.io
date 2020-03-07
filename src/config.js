@@ -14,25 +14,25 @@ export default {
   /**
    * 站点标题
    */
-  title: '蝉時雨',
-  subtitle: '蝉鸣如雨 花宵道中',
+  title: '止南',
+  subtitle: '止于南风 不至于ni',
 
   /**
    * Github Issues 配置
    */
-  username: 'chanshiyucx', // github 用户名
+  username: 'DJl518', // github 用户名
   repository: 'blog', // 文章仓库地址
-  token: ['0ad1a0539c5b96fd18fa', 'aaafba9c7d1362a5746c'], // token 从中间任意位置拆开成两部分，避免 github 代码检测失效
+  token: ['62a80305a81e9e74bd9', 'b9361314137e4aa24c515'], // token 从中间任意位置拆开成两部分，避免 github 代码检测失效
 
   /**
    * Gitalk 配置，文档详见：https://github.com/gitalk/gitalk
    */
   gitalk: {
-    clientID: '864b1c2cbc4e4aad9ed8',
-    clientSecret: '6ca16373efa03347e11a96ff92e355c5cea189bb',
+    clientID: '20d6a8b828c2a7a5c830',//ID
+    clientSecret: 'abaad9e8c750785bcbeab306416849e552d84c76',//Secret
     repo: 'comment', // 评论仓库地址
-    owner: 'chanshiyucx',
-    admin: ['chanshiyucx'],
+    owner: 'DJL518',//用户名
+    admin: ['DJL518'],
     distractionFreeMode: false // 是否开始无干扰模式【背景遮罩】
   },
 
@@ -40,8 +40,8 @@ export default {
    * leancloud 配置 【注意切换为国际版】
    */
   leancloud: {
-    appId: 'LjOwR4ELEqbauKvtQbwq5TUw-MdYXbMMI',
-    appKey: 'BOSFJ49ohbGctgn4zvJE9VN6'
+    appId: '9VwYqsj8FX0HaoFN6gBv1xut-MdYXbMMI',//ID
+    appKey: 'DW1c3W5QuQS0cuy0P5iy2tJD'//key
   },
 
   /**
