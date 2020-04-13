@@ -1,5 +1,7 @@
 # Aurora - An awesome blog theme
-
+ 
+注意，这里是引用了大佬蝉时雨的博客
+ 
 [![Author](https://img.shields.io/badge/author-chanshiyucx-blue.svg?style=flat-square)](https://chanshiyu.com)
 [![QQ群](https://img.shields.io/badge/QQ群-1029784628-blue.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5cHOhhO)
 [![Email](https://img.shields.io/badge/Email%20me-me@chanshiyu.com-green.svg?style=flat-square)](me@chanshiyu.com)
