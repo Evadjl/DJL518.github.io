@@ -110,7 +110,7 @@ export default {
   aboutOpts: {
     display: true,
     enableComment: true,
-    qoute: '蝉鸣如雨，花宵道中',
+    qoute: '止于南风，不止于ni',
     avatar: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/avatar.jpg',
     graduated: 'University of Electronic Science and Technology of China (UESTC)',
     college: 'Communication&Information Engineering',
@@ -169,7 +169,7 @@ export default {
    */
   APlayer: [
     {
-      name: 'うたかたの风と蝉时雨',
+      name: 'うたかたの风と止南',
       artist: 'Little Planet',
       url: 'https://files.catbox.moe/wo7zjt.mp3',
       cover: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/cover1.jpg'
