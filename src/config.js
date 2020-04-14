@@ -1,7 +1,8 @@
 /**
  * Aurora 主题配置文件
  * 食用指南：https://github.com/chanshiyucx/blog/issues/41
- * 联系作者：Blog https://chanshiyu.com      QQ 1124590931
+ * 蝉时雨：Blog https://chanshiyu.com      QQ 1124590931
+ * 止南：QQ 2781175869
  */
 
 export default {
@@ -56,7 +57,7 @@ export default {
   archiveOpts: {
     display: true, // 是否显示该页面
     enableComment: false, // 是否开启评论功能
-    qoute: '華枝春滿 天心月圓' // 页面顶部一言
+    qoute: '你爱的是彼岸的花朵 盛开在不可触及的别处' // 页面顶部一言
   },
 
   /**
@@ -65,7 +66,7 @@ export default {
   categoryOpts: {
     display: true,
     enableComment: false,
-    qoute: '桜華月想 暮色蒼然'
+    qoute: '陌上花开 可缓缓归矣'
   },
 
   /**
@@ -74,7 +75,7 @@ export default {
   tagOpts: {
     display: true,
     enableComment: false,
-    qoute: '灯笼流丽，百鬼夜行'
+    qoute: '君心我知 我心君知 君心我心'
   },
 
   /**
@@ -83,7 +84,7 @@ export default {
   inspirationOpts: {
     display: true,
     enableComment: true,
-    qoute: '詠奏妖華，明鏡止水'
+    qoute: '浮世万千 吾爱有三 日 月 卿'
   },
 
   /**
@@ -92,7 +93,7 @@ export default {
   bookOpts: {
     display: true,
     enableComment: true,
-    qoute: '追想風景 彼岸帰航'
+    qoute: '即许一人以偏爱 愿尽余生之慷慨'
   },
 
   /**
@@ -156,11 +157,11 @@ export default {
   qrcode: [
     {
       name: '支付宝',
-      img: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/zfb.png'
+      // img: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/zfb.png'
     },
     {
       name: '微信',
-      img: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/wx.png'
+      // img: '//cdn.jsdelivr.net/gh/chanshiyucx/yoi/blog/wx.png'
     }
   ],
 
